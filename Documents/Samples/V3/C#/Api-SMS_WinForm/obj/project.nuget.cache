@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VhzvFqvVLFM4H/lHx/NeYFOmvjb10hWYkujNYi5Kn3olP58gsGZ+DKcGIZBPjbItFbIFincRbcbbWs0caJUV3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moj 106\\source\\repos\\mojeshahr\\SMS_Api\\api.sms-webservice\\C#\\SMS-Webservice\\Api-SMS_WinForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moj 106\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Moj 106\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
